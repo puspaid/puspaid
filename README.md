@@ -89,7 +89,7 @@ class DataJourney:
 
 ## 💡 Fun Fact
 
-> "I believe in the power of data to tell stories and drive meaningful change. Currently on a mission to turn coffee ☕ into code and insights into impact!"
+> "Saya percaya bahwa Ctrl+C dan Ctrl+V adalah penemuan teknologi paling penting dalam sejarah kemanusiaan, terutama saat bertemu error di Stack Overflow."
 
 ---
 
