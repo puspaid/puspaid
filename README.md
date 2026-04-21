@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi, I'm Fidyah!
+# 👋 Hi, I'm Puspa!
 
 **Aspiring Data Scientist | Python • SQL • Data Analysis**
 
