@@ -72,7 +72,8 @@ class DataJourney:
 
 ### 🐍 [Python 30-Day Challenge](https://github.com/puspaid/Belajar-Python-30-Hari)
 *Learning Python fundamentals through daily practice*
-
+### 🌍 Community Social Issue Reporter App
+### 🏆 Dicoding Capstone Project × DBS Foundation
 **More projects coming soon!**
 
 ---
