@@ -89,7 +89,7 @@ class DataJourney:
 
 ## 💡 Fun Fact
 
-> "Saya percaya bahwa Ctrl+C dan Ctrl+V adalah penemuan teknologi paling penting dalam sejarah kemanusiaan, terutama saat bertemu error di Stack Overflow."
+> "I believe that Ctrl+C and Ctrl+V are the most important technological inventions in the history of humanity, especially when encountering errors on Stack Overflow."
 
 ---
 
