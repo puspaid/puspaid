@@ -208,7 +208,7 @@ print(puspa.philosophy())
 </div>
 
 > **💬 Character Monologue:**
-> *"I believe that* `Ctrl+C` *and* `Ctrl+V` *are the most important technological inventions in the history of humanity — especially when Stack Overflow holds the answer to a 3-hour bug."*
+> *"Hobi baca webtoon misteri buat belajar strategi dari karakter jenius, itung-itung latihan mental sebelum sok ide jadi detektif buat mecahin misteri bug di kode sendiri!"*
 
 ```
   [ NARRATOR: And so, Puspa continues her journey... ]
