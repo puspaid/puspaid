@@ -157,13 +157,13 @@ print(puspa.philosophy())
 ║  ✅  [COMPLETED]  Python 30-Day Challenge             ║
 ║       └─ Daily fundamentals, streak maintained        ║
 ║                                                       ║
-║  ⚔️   [IN PROGRESS]  Coding Camp × DBS Foundation    ║
+║  ⚔️   [COMPLETED]  Coding Camp × DBS Foundation    ║
 ║       └─ ML · Data Analysis · AI App Development      ║
 ║                                                       ║
 ║  🔮  [IN PROGRESS]  Community Social Issue Reporter  ║
 ║       └─ Real-world impact through data               ║
 ║                                                       ║
-║  🏆  [IN PROGRESS]  Dicoding Capstone × DBS          ║
+║  🏆  [COMPLETED]  Dicoding Capstone × DBS          ║
 ║       └─ Team project: AI job-readiness predictor     ║
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
